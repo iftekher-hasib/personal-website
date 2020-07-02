@@ -20,9 +20,10 @@ p{
     margin: 10%;
     width: 30%;
     float: left;
+    margin-bottom: 50px;
 }
 .half-side img{
-    width: 80%;
+    width: 90%;
 }
 .button{
     text-decoration: none;
@@ -44,6 +45,9 @@ p{
     background-repeat: no-repeat;
     background-size: 100%;
     height: 400px;
+}
+.section3 h1{
+    text-align: center;
 }
 #work-pic{
     float: left;
